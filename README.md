@@ -52,6 +52,15 @@ Streamlit Dashboard
 
 ## Dataset
 
+This project uses the Texas Insurance Complaints Dataset containing
+approximately 299,677 insurance complaint records.
+
+Due to the size of the original dataset, the complete dataset is not
+included in this repository. A small sample is provided for reference.
+
+The original dataset can be obtained from the Texas Department of
+Insurance public complaints dataset.
+
 The project uses the Texas Insurance Complaints Dataset containing approximately 299,677 insurance complaint records.
 
 Important attributes include:
