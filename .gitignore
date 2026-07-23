@@ -1,0 +1,31 @@
+# API keys
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/local data
+data/*.csv
+data/*.zip
+*.parquet
+*.npy
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+.streamlit/secrets.toml
